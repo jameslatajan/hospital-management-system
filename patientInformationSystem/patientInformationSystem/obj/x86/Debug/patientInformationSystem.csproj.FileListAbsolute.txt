@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.Billing.resources
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.dashBoard.resources
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.docConsDiagModule.resources
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.loginForm.resources
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.records.resources
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.registrationModule.resources
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.treatmentModule.resources
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.userSetting.resources
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\bin\Debug\patientInformationSystem.exe
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\bin\Debug\patientInformationSystem.pdb
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.exe
+c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.RegisterForm.resources
