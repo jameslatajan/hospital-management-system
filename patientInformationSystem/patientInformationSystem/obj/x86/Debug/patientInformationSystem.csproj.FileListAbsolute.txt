@@ -14,3 +14,32 @@ c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\pa
 c:\users\admin\documents\visual studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.pdb
 C:\Users\Admin\Documents\Visual Studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\Visual Studio 2010\Projects\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.RegisterForm.resources
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.exe
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.pdb
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.csprojResolveAssemblyReference.cache
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.dashBoard.resources
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.docConsDiagModule.resources
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.loginForm.resources
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.Properties.Resources.resources
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.records.resources
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.registrationModule.resources
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.treatmentModule.resources
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.userSetting.resources
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.csproj.GenerateResource.Cache
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\bin\Debug\patientInformationSystem.exe
+C:\Users\acarza\Desktop\+\patientInformationSystem\patientInformationSystem\bin\Debug\patientInformationSystem.pdb
+C:\Users\acarza\Desktop\+\patientInformationSystems\patientInformationSystem\obj\x86\Debug\patientInformationSystem.exe
+C:\Users\acarza\Desktop\+\patientInformationSystems\patientInformationSystem\obj\x86\Debug\patientInformationSystem.pdb
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.dashBoard.resources
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.docConsDiagModule.resources
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.loginForm.resources
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.Properties.Resources.resources
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.records.resources
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.registrationModule.resources
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.userSetting.resources
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\bin\Debug\patientInformationSystem.exe
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\bin\Debug\patientInformationSystem.pdb
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.exe
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.pdb
+C:\Users\Admin\Desktop\project\patientInformationSystem\patientInformationSystem\obj\x86\Debug\patientInformationSystem.csprojResolveAssemblyReference.cache

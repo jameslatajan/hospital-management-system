@@ -46,12 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Billing.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Billing.Designer.cs">
-      <DependentUpon>Billing.cs</DependentUpon>
-    </Compile>
     <Compile Include="dashBoard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,23 +72,11 @@
     <Compile Include="record.Designer.cs">
       <DependentUpon>record.cs</DependentUpon>
     </Compile>
-    <Compile Include="RegisterForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="RegisterForm.Designer.cs">
-      <DependentUpon>RegisterForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="registrationModule.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="registrationModule.Designer.cs">
       <DependentUpon>registrationModule.cs</DependentUpon>
-    </Compile>
-    <Compile Include="treatmentModule.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="treatmentModule.Designer.cs">
-      <DependentUpon>treatmentModule.cs</DependentUpon>
     </Compile>
     <Compile Include="userSetting.cs">
       <SubType>Form</SubType>
@@ -102,9 +84,6 @@
     <Compile Include="userSetting.Designer.cs">
       <DependentUpon>userSetting.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Billing.resx">
-      <DependentUpon>Billing.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="dashBoard.resx">
       <DependentUpon>dashBoard.cs</DependentUpon>
     </EmbeddedResource>
@@ -126,14 +105,8 @@
     <EmbeddedResource Include="record.resx">
       <DependentUpon>record.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="RegisterForm.resx">
-      <DependentUpon>RegisterForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="registrationModule.resx">
       <DependentUpon>registrationModule.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="treatmentModule.resx">
-      <DependentUpon>treatmentModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="userSetting.resx">
       <DependentUpon>userSetting.cs</DependentUpon>

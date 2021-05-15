@@ -50,26 +50,7 @@ namespace patientInformationSystem
             docModule.Show();
         }
 
-        private void btnTreat_Click(object sender, EventArgs e)
-        {
-            treatmentModule treatModule = new treatmentModule();
-            panel5.Controls.Clear();
-            treatModule.TopLevel = false;
-            panel5.Controls.Add(treatModule);
-            treatModule.BringToFront();
-            treatModule.Show();
-        }
-
-        private void Billing_Click(object sender, EventArgs e)
-        {
-            Billing billing = new Billing();
-            panel5.Controls.Clear();
-            billing.TopLevel = false;
-            panel5.Controls.Add(billing);
-            billing.BringToFront();
-            billing.Show();
-        }
-
+       
         private void btnRecords_Click(object sender, EventArgs e)
         {
             records rec = new records();
