@@ -8,16 +8,20 @@ using System.Text;
 using System.Windows.Forms;
 using System.Data.OleDb;
 
+
 namespace patientInformationSystem
 {
     public partial class loginForm : Form
     {
         private OleDbConnection connection = new OleDbConnection();
+        
 
         public loginForm()
         {
+            //edited relative path
             InitializeComponent();
-            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Admin\Documents\Visual Studio 2010\Projects\patientInformationSystem\databases\PISdb.accdb; Persist Security Info=False;";
+            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=.\databases\PISdb.accdb; Persist Security Info=False;";
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -38,7 +42,7 @@ namespace patientInformationSystem
 
             OleDbCommand command = new OleDbCommand();
             command.Connection = connection;
-            command.CommandText = "select * from account_tb where USERNAME='"+txtUser.Text+"' and PASSWORD='"+txtPass.Text+"'" ;
+            command.CommandText = "select * from account_tb where USERNAME='"+txtUser.Text+"' and PASS='"+txtPass.Text+"'" ;
             
             
             OleDbDataReader reader =  command.ExecuteReader();

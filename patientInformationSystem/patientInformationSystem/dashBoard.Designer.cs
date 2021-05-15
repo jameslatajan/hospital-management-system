@@ -38,8 +38,6 @@
             this.panel3 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnRecords = new System.Windows.Forms.Button();
-            this.Billing = new System.Windows.Forms.Button();
-            this.btnTreat = new System.Windows.Forms.Button();
             this.btnCon = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.btnReg = new System.Windows.Forms.Button();
@@ -98,7 +96,7 @@
             this.btnLog.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLog.ForeColor = System.Drawing.Color.Black;
             this.btnLog.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnLog.Location = new System.Drawing.Point(-3, 527);
+            this.btnLog.Location = new System.Drawing.Point(-1, 435);
             this.btnLog.Name = "btnLog";
             this.btnLog.Size = new System.Drawing.Size(269, 40);
             this.btnLog.TabIndex = 7;
@@ -119,7 +117,7 @@
             this.btnUser.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUser.ForeColor = System.Drawing.Color.Black;
             this.btnUser.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnUser.Location = new System.Drawing.Point(-3, 481);
+            this.btnUser.Location = new System.Drawing.Point(-1, 389);
             this.btnUser.Name = "btnUser";
             this.btnUser.Size = new System.Drawing.Size(269, 40);
             this.btnUser.TabIndex = 6;
@@ -165,7 +163,7 @@
             this.btnRecords.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRecords.ForeColor = System.Drawing.Color.Black;
             this.btnRecords.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnRecords.Location = new System.Drawing.Point(-3, 435);
+            this.btnRecords.Location = new System.Drawing.Point(-1, 343);
             this.btnRecords.Name = "btnRecords";
             this.btnRecords.Size = new System.Drawing.Size(269, 40);
             this.btnRecords.TabIndex = 5;
@@ -175,48 +173,6 @@
             this.btnRecords.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnRecords.UseVisualStyleBackColor = false;
             this.btnRecords.Click += new System.EventHandler(this.btnRecords_Click);
-            // 
-            // Billing
-            // 
-            this.Billing.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(209)))), ((int)(((byte)(110)))));
-            this.Billing.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.Billing.FlatAppearance.BorderSize = 0;
-            this.Billing.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(102)))), ((int)(((byte)(203)))));
-            this.Billing.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Billing.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Billing.ForeColor = System.Drawing.Color.Black;
-            this.Billing.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.Billing.Location = new System.Drawing.Point(-3, 389);
-            this.Billing.Name = "Billing";
-            this.Billing.Size = new System.Drawing.Size(269, 40);
-            this.Billing.TabIndex = 4;
-            this.Billing.TabStop = false;
-            this.Billing.Text = "  Billing";
-            this.Billing.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.Billing.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.Billing.UseVisualStyleBackColor = false;
-            this.Billing.Click += new System.EventHandler(this.Billing_Click);
-            // 
-            // btnTreat
-            // 
-            this.btnTreat.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(209)))), ((int)(((byte)(110)))));
-            this.btnTreat.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnTreat.FlatAppearance.BorderSize = 0;
-            this.btnTreat.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(102)))), ((int)(((byte)(203)))));
-            this.btnTreat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnTreat.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTreat.ForeColor = System.Drawing.Color.Black;
-            this.btnTreat.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnTreat.Location = new System.Drawing.Point(0, 343);
-            this.btnTreat.Name = "btnTreat";
-            this.btnTreat.Size = new System.Drawing.Size(266, 40);
-            this.btnTreat.TabIndex = 3;
-            this.btnTreat.TabStop = false;
-            this.btnTreat.Text = "  Treatment Module";
-            this.btnTreat.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnTreat.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnTreat.UseVisualStyleBackColor = false;
-            this.btnTreat.Click += new System.EventHandler(this.btnTreat_Click);
             // 
             // btnCon
             // 
@@ -326,8 +282,6 @@
             this.panel1.Controls.Add(this.btnLog);
             this.panel1.Controls.Add(this.btnUser);
             this.panel1.Controls.Add(this.btnRecords);
-            this.panel1.Controls.Add(this.Billing);
-            this.panel1.Controls.Add(this.btnTreat);
             this.panel1.Controls.Add(this.btnCon);
             this.panel1.Controls.Add(this.btnReg);
             this.panel1.Controls.Add(this.panel2);
@@ -373,8 +327,6 @@
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnRecords;
-        private System.Windows.Forms.Button Billing;
-        private System.Windows.Forms.Button btnTreat;
         private System.Windows.Forms.Button btnCon;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnReg;
